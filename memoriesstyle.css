@@ -1,0 +1,176 @@
+body{
+    background-image: url(party2.jpg);
+    background-size:contain;
+    text-align: center;
+}
+.all1{
+    height:63%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+    margin-right: 60px;
+    box-shadow: 0 0 50px  pink;
+    margin-bottom: 5%;
+    margin-top: 3%;
+
+}
+.all2{
+    height:63%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+    margin-right: 60px;
+    box-shadow: 0 0 50px  pink;
+    margin-bottom: 5%;
+
+
+}
+.all3{
+    height:63%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+    margin-right: 60px;
+    box-shadow: 0 0 50px  pink;
+    margin-bottom: 5%;
+
+
+}
+.all4{
+    height:63%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+    margin-right: 60px;
+    box-shadow: 0 0 50px  pink;
+    margin-bottom: 5%;
+
+
+}
+.all5{
+    height:63%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+    margin-right: 60px;
+    box-shadow: 0 0 50px  pink;
+    margin-bottom: 5%;
+
+
+}
+.all6{
+    height:47%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+    margin-right: 60px;
+    box-shadow: 0 0 50px pink;
+    margin-bottom: 5%;
+
+
+}
+.all7{
+    height:65%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+    margin-right: 60px;
+    box-shadow: 0 0 50px  pink;
+    margin-bottom: 5%;
+
+
+}
+.images{
+    height:44%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+    margin-right: 60px;
+    box-shadow: 0 0 50px pink;
+    margin-bottom: 5%;
+
+
+}
+.images2{
+    height:65%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+    margin-right: 60px;
+    box-shadow: 0 0 50px  pink;
+    margin-bottom: 5%;
+
+
+}
+.images3{
+    height: 38%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+    margin-right: 60px;
+    box-shadow: 0 0 50px  pink;
+
+}
+button{
+font-size:30px;
+    border-radius: 100%;
+    color: white;
+    font-family: stencil;
+    margin-right:80%;
+    margin-top:5%;
+    box-shadow: 0 0 30px #ffffff;
+    
+}
+a{
+    color: black;
+}
+.back{
+font-size:90px;
+margin-top: 20%;
+border-radius: 20px;
+border-width: 10px;
+border-style: dashed;
+border-color: rgb(255, 255, 255);
+background-image: url(party1.jpg);
+color: white;
+margin-left: 0;
+margin-right: 60%;
+box-shadow: 0 0 50px rgb(0, 0, 0);
+width:50%;
+height: 10%;
+
+}
+.talk{
+    border-radius:50px;
+    width:35%;
+    height: 10%;
+    font-family:impact;
+    font-size: 100px;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(255, 232, 192);
+    border-style: dashed;
+    border-width: 20px;
+    margin-bottom: 30px;
+    margin-left: 24%;
+    box-shadow: 0 0 50px steelblue;
+}
